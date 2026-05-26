@@ -1,6 +1,7 @@
 # Digital-Clock-System
 
 Description
+
 Developed a C++ object-oriented program that simulates a digital clock system capable of setting, displaying, incrementing, and comparing time values. The project demonstrates the use of object-oriented programming principles, formatted time handling, and basic time comparison operations through an interactive console-based application.
 
 Programming Language Used
